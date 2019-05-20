@@ -14,7 +14,7 @@
 
 #### Framework
 
-Most of networks implemented in pytorch.
+Most of networks are implemented in pytorch.
 
 #### Assignment Report
 
